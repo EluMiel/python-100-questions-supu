@@ -7,6 +7,8 @@ This repository is my personal learning log based on the YouTube video by Python
 All 100 questions were solved using Google Colab.
 The problem statements are *not* reproduced here. Only my own code and notes with permission.
 
+---
+
 シンプルかつコードを書いていて面白い問題の数々は、空いた時間に少しずつ解き進めていくのにちょうどよく、
 100問があっという間でした。それぞれの解説は聞きやすい上に、とてもわかりやすくて大変勉強になりました。
 ありがとうございました。
