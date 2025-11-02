@@ -6,7 +6,9 @@ This repository is my personal learning log based on the YouTube video by Python
 (https://www.youtube.com/watch?v=v5lpFzSwKbc&list=PLiaZfx-34L5qUlG3iUVneCamIxb_SM6Q0&index=3&t=7827s)
 
 All 100 questions were solved using Google Colab.
-The problem statements are *not* reproduced here. Only my own code and notes with permission.
+The problem statements are *not* reproduced here. Only my own code and notes.
+ 
+This repository was created with permission from Python VTuber Supu, the original creator of the reference video linked above.
 
 ---
 
